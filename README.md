@@ -27,9 +27,9 @@ This Figma plugin extracts the names of direct child frames/components from pare
 Parent frames are skipped if:
 
 - The name is exactly `🖼️ Cover`
-- The name includes `skip component extract`
-- The name includes `"cookies"` (case-insensitive)
-- The name includes `"mobile"` (case-insensitive)
+- The name includes `skip component extract` (case-insensitive)
+- The name includes `cookies` (case-insensitive)
+- The name includes `mobile` (case-insensitive)
 
 ---
 
