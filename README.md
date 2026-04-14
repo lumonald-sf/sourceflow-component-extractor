@@ -43,4 +43,6 @@ Parent frames are skipped if:
    - Adds a text node with component names next to each parent
    - Generates a downloadable CSV with:
      - **Link** to the parent frame
-     - **F**
+     - **Figma Page**
+     - **Page Design**
+     - **Component Name**
